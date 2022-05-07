@@ -1,4 +1,5 @@
-APP DE CLIMA
+**ACTUALIZANDO CON FINES PROBATIVOS NOMA**
+**PARA SUBIR DE GIT/BRANC2 A GITHUB/BRANCH2DESDEGITHUB**
 
 Se conecta a OpenWeatherMap.org
  we recommend making API calls less than once/10mins per location (by city name, geocoords or zip).OpenWeather model udpates once in 10 minutes.
@@ -55,4 +56,3 @@ USAR ASI
  request image acording to weather there
  build an html laying that our
  show graph with forecast
-
