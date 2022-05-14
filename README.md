@@ -56,3 +56,12 @@ USAR ASI
  request image acording to weather there
  build an html laying that our
  show graph with forecast
+
+
+***EN SU VERSION 2***
+
+ Aparte de traer el resultado de OpenWeather, que viene como un JSON, va a dar una lista con CAMPO: VALOR
+
+
+
+
